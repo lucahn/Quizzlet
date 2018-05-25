@@ -8,7 +8,7 @@ $("#restart").click(restartGame);
 
 var questions = [
     {
-        prompt: "Do you want TO be my boyfriend?",
+        prompt: "Do you want TO be my friend?",
         optA:"yes",
         optB:"no",
         optC:"no",
@@ -17,7 +17,7 @@ var questions = [
     },
 
     {
-        prompt: "Do you WANT to be my boyfriend?",
+        prompt: "Do you WANT to be my friend?",
         optA:"niet",
         optB:"hai",
         optC:"niet",
@@ -26,7 +26,7 @@ var questions = [
     },
 
     {
-        prompt: "Do YOU want to be my boyfriend?",
+        prompt: "Do YOU want to be my friend?",
         optA:"nope",
         optB:"nope",
         optC:"yup",
@@ -35,7 +35,7 @@ var questions = [
     },
 
     {
-        prompt: "Do you want to BE my boyfriend?",
+        prompt: "Do you want to BE my friend?",
         optA:"NO",
         optB:"NO",
         optC:"NO",
